@@ -6,9 +6,9 @@ https://review.udacity.com/#!/rubrics/1021/view
 
 ## Installation guide
   1-clone this repo.
-  2-change directory - cd FlashCard
-  3-install dependencies - npm install
-  -start dev server - expo start or npm start
+  2-change directory->cd FlashCard.
+  3-install dependencies->npm install.
+  4-start dev server ->expo start or npm start.
 ## you can see the running of this app within:
   https://snack.expo.io/@mohamed_elnagar/flachcards
 
