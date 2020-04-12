@@ -80,5 +80,5 @@ export function addCardToDeck(key, question, answer) {
     decks[key].questions.push(createCard(question, answer));
     AsyncStorage.mergeItem(Storage_key, JSON.stringify(decks));
   });
-  return getAllDecks();
+  return getAllDecks()
 }
